@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/"><img src="https://skillicons.dev/icons?i=windows"/></a>
 </div>
 <div>
-  <a href="https://docs.docker.com/get-docker/"><img src="https://skillicons.dev/icons?i=docker"/></a>
+  <a href="https://docs.docker.com/get-docker/" target=”_blank”><img src="https://skillicons.dev/icons?i=docker"/></a>
   <a href="https://www.elastic.co/guide/index.html"><img src="https://skillicons.dev/icons?i=elasticsearch"/></a>
   <a href="https://www.postgresql.org/about/"><img src="https://skillicons.dev/icons?i=postgres"/></a>
   <a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase"/></a>
