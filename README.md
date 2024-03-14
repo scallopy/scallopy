@@ -31,35 +31,34 @@ Here are some ideas to get you started:
 
 # 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,react,angular,nodejs,materialui,php)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,git,windows)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,postgres,elasticsearch,supabase,)](https://skillicons.dev)
-
 <!--
 [![My Skills](https://skillicons.dev/icons?i=docker,py,django,react,angular,nodejs,materialui,php,postgres,elasticsearch,linux,bash,supabase,vim,git,windows,vercel)](https://skillicons.dev)
 -->
-<div id="languages">
-  <a href="https://www.python.org/">
-    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="30"/>
-  </a>
+
+<div>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/></a> 
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django"/></a>
+  <a href="https://legacy.reactjs.org/"><img src="https://skillicons.dev/icons?i=react"/></a>
+  <a href="https://legacy.reactjs.org/"><img src="https://skillicons.dev/icons?i=angular"/></a>
+  <a href="https://legacy.reactjs.org/"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
+  <a href="https://legacy.reactjs.org/"><img src="https://skillicons.dev/icons?i=materialui"/></a>
+  <a href="https://legacy.reactjs.org/"><img src="https://skillicons.dev/icons?i=php"/></a>
 </div>
+<div>
+  <a href=""><img src="https://skillicons.dev/icons?i=linux,bash,vim,git,windows"/></a>
+</div>
+<div>
+  <a href=""><img src="https://skillicons.dev/icons?i=docker,postgres,elasticsearch,supabase"/></a>
+</div>
+
 <br>
 
 
 # 📫 How to reach me:
 
 <div id="badges">
-  <a href="mailto:petia.t.velikova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/petya-velikova-02b198119/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="mailto:petia.t.velikova@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/petya-velikova-02b198119/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <!--
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
