@@ -40,6 +40,14 @@ Here are some ideas to get you started:
 <!--
 [![My Skills](https://skillicons.dev/icons?i=docker,py,django,react,angular,nodejs,materialui,php,postgres,elasticsearch,linux,bash,supabase,vim,git,windows,vercel)](https://skillicons.dev)
 -->
+<div id="languages">
+  <a href="https://www.python.org/">
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50"/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="30"/>
+  </a>
+</div>
 <br>
 
 
