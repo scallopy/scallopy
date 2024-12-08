@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 👱‍♀️ About me
 
-- 🔭 I’m currently working on Trello Assista and [app.rate-me.in](https://app.rate-me.in/)
+- 🔭 I’m currently working on [Trello Assista](https://assista.io/) and [app.rate-me.in](https://app.rate-me.in/)
 - 🌱 I’m currently learning and interested in [Cloud Native Buildpack](https://buildpacks.io/), [Dockerfile reference](https://docs.docker.com/reference/dockerfile/) and [K8s](https://kubernetes.io/)
 - 👯 I’m looking to collaborate on Python or Django open source projects
 - 🤔 I’m looking for help with [Cloud Native Buildpack](https://buildpacks.io/)
