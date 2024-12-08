@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <a href="https://angular.io/start" target=”_blank”><img src="https://skillicons.dev/icons?i=angular"/></a>
   <a href="https://nodejs.org/en/about" target=”_blank”><img src="https://skillicons.dev/icons?i=nodejs"/></a>
   <a href="https://www.php.net/manual/en/getting-started.php" target=”_blank”><img src="https://skillicons.dev/icons?i=php"/></a>
+  <a href="https://nuxt.com/" target=”_blank”><img src="https://skillicons.dev/icons?i=nuxtjs"/></a>
 </div>
 <div>
   <a href="https://linuxjourney.com/lesson/linux-history" target=”_blank”><img src="https://skillicons.dev/icons?i=linux"/></a>
@@ -55,22 +56,22 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/book/en/v2" target=”_blank”><img src="https://skillicons.dev/icons?i=git"/></a>
   <a href="https://about.gitlab.com/" target=”_blank”><img src="https://skillicons.dev/icons?i=gitlab"/></a>
   <a href="https://www.jenkins.io/" target=”_blank”><img src="https://skillicons.dev/icons?i=jenkins"/></a>
-  <a href="https://nuxt.com/" target=”_blank”><img src="https://skillicons.dev/icons?i=nuxtjs"/></a>
   <a href="https://vercel.com/" target=”_blank”><img src="https://skillicons.dev/icons?i=vercel"/></a>
+  
 </div>
 <div>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS Icon" /></a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB Icon" /></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform Icon" /></a>
-  <a href="https://docs.docker.com/get-docker/" target=”_blank”><img src="https://skillicons.dev/icons?i=docker"/></a>
   <a href="https://www.elastic.co/guide/index.html" target=”_blank”><img src="https://skillicons.dev/icons?i=elasticsearch"/></a>
+  <a href="https://docs.docker.com/get-docker/" target=”_blank”><img src="https://skillicons.dev/icons?i=docker"/></a>
   <a href="https://www.postgresql.org/about/" target=”_blank”><img src="https://skillicons.dev/icons?i=postgres"/></a>
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
   <a href="https://supabase.com/docs" target=”_blank”><img src="https://skillicons.dev/icons?i=supabase"/></a>
 </div>
 <div>
   <a href="https://owasp.org/API-Security/editions/2023/en/0x03-introduction/" target="_blank"><img src="https://owasp.org/API-Security/assets/images/icon.png" alt="OWASP Logo" style="width: 60px;" /></a>
-  <a href="https://owasp.org/Top10/A00_2021_Introduction/" target="_blank"><img src="https://owasp.org/assets/images/logo.png" alt="OWASP Logo" style="width: 120px; padding-right: 120px;" /></a>
-  <a>   </a>
+  <a href="https://owasp.org/Top10/A00_2021_Introduction/" target="_blank"><img src="https://owasp.org/assets/images/logo.png" alt="OWASP Logo" style="width: 120px;" /></a>
   <a href="https://aws.amazon.com/security/" target="_blank"><img src="https://img.shields.io/badge/AWS-Security-orange?style=for-the-badge&logo=amazonaws" alt="AWS Security" /></a>
 </div>
 
