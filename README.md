@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 # 📫 How to reach me:
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>  <span style="padding-bottom: 4px;">petia.t.velikova@gmail.com</span> <br>
+  Email: petia.t.velikova@gmail.com</span> <br><br>
   <a href="https://www.linkedin.com/in/petya-velikova-02b198119/"  target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <!--
   <a href="your-youtube-URL">
